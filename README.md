@@ -1,12 +1,7 @@
-## Installation
+# Rock Papern Scissors
 
-    run installer.py
-or
-     
-    pip install colorama
-    
-as it is the only external module used in this project.
-    
+In this game, the user has the option to select the number of rounds and play using the [R]-Rock, [P]-Paper, and [S]-Scissor keys.
+
 ---
 
 ## Installation
@@ -28,9 +23,6 @@ Open the `main.py`,
    - "R" for Rock
    - "P" for Paper
    - "S" for Scissor
- 
-In this game, the user has the option to select the number of rounds and play using the [R]-Rock, [P]-Paper, and [S]-Scissor keys.
-
 
 ### Issue Reporting
 
