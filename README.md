@@ -9,17 +9,6 @@ as it is the only external module used in this project.
     
 ---
 
-## Play
-
-Open the `main.py`,
-- Select the number of rounds.
-- Use the keys "R" for Rock
-     - ddd# Rock Papern Scissors
-
-In this game, the user has the option to select the number of rounds and play using the [R]-Rock, [P]-Paper, and [S]-Scissor keys.
-
----
-
 ## Installation
 
     run installer.py
@@ -39,6 +28,8 @@ Open the `main.py`,
    - "R" for Rock
    - "P" for Paper
    - "S" for Scissor
+ 
+In this game, the user has the option to select the number of rounds and play using the [R]-Rock, [P]-Paper, and [S]-Scissor keys.
 
 
 ### Issue Reporting
